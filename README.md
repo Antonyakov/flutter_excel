@@ -1,16 +1,15 @@
-# flutter_excel
+Simple app flutter excel
 
-A new Flutter project.
+Use:
+main flutter widgets
+working with StatelessWidget, 
 
-## Getting Started
+This project [flutter_excel](https://github.com/Antonyakov/flutter_excel).
+   
+<li align="center">
+    <img src="https://github.com/Antonyakov/weather_app/blob/master/Screenshot_1673936283.png" width="400" alt="accessibility text">  
+    <img src="https://github.com/Antonyakov/weather_app/blob/master/Screenshot_1673936297.png" width="400" alt="accessibility text">
+    <img src="https://github.com/Antonyakov/weather_app/blob/master/Screenshot_1673936297.png" width="600" alt="accessibility text">   
+</li>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In the mobile version it will turn off if Excel is installed!
